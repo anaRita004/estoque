@@ -1,4 +1,4 @@
-# Controle de Estoque Ì≥¶
+# Controle de Estoque
 Este √© um projeto em Python que permite gerenciar um controle de estoque de produtos, oferecendo funcionalidades para adicionar, remover, atualizar e exibir a quantidade de itens no estoque.
 ## Funcionalidades
 - **Adicionar Produto**: Adicione um novo produto ao estoque com uma quantidade espec√≠fica.
